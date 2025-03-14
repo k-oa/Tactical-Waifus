@@ -4,219 +4,240 @@ size: 2048, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/Tactical Waifus/Units/Archer
+TileSets/TacticalWaifus/Units/Archer
   rotate: false
   xy: 4, 108
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-TileSets/Tactical Waifus/Units/Archer-1
+TileSets/TacticalWaifus/Units/Archer-1
   rotate: false
   xy: 4, 4
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-TileSets/Tactical Waifus/Units/Archer-2
+TileSets/TacticalWaifus/Units/Archer-2
   rotate: false
   xy: 108, 108
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-TileSets/Tactical Waifus/Units/Atlatlist
+TileSets/TacticalWaifus/Units/Atlatlist
   rotate: false
   xy: 108, 4
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-TileSets/Tactical Waifus/Units/Battering Ram
+TileSets/TacticalWaifus/Units/Battering Ram
   rotate: false
   xy: 212, 108
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-TileSets/Tactical Waifus/Units/Bowman
+TileSets/TacticalWaifus/Units/Bowman
   rotate: false
   xy: 212, 4
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-TileSets/Tactical Waifus/Units/Brute
+TileSets/TacticalWaifus/Units/Brute
   rotate: false
   xy: 316, 108
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-TileSets/Tactical Waifus/Units/Chariot Archer
+TileSets/TacticalWaifus/Units/Chariot Archer
   rotate: false
   xy: 316, 4
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-TileSets/Tactical Waifus/Units/EmbarkedUnit-Civilian-Polynesia
+TileSets/TacticalWaifus/Units/Composite Bowman
   rotate: false
   xy: 420, 108
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-TileSets/Tactical Waifus/Units/EmbarkedUnit-Military-Polynesia
+TileSets/TacticalWaifus/Units/EmbarkedUnit-Civilian-Polynesia
   rotate: false
   xy: 420, 4
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-TileSets/Tactical Waifus/Units/Hoplite
+TileSets/TacticalWaifus/Units/EmbarkedUnit-Military-Polynesia
   rotate: false
   xy: 524, 108
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-TileSets/Tactical Waifus/Units/Horse Archer
+TileSets/TacticalWaifus/Units/Hoplite
   rotate: false
   xy: 524, 4
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-TileSets/Tactical Waifus/Units/Jaguar
+TileSets/TacticalWaifus/Units/Horse Archer
   rotate: false
   xy: 628, 108
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-TileSets/Tactical Waifus/Units/Maori Warrior
+TileSets/TacticalWaifus/Units/Horseman
   rotate: false
   xy: 628, 4
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-TileSets/Tactical Waifus/Units/Persian Immortal
+TileSets/TacticalWaifus/Units/Jaguar
   rotate: false
   xy: 732, 108
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-TileSets/Tactical Waifus/Units/Pictish Warrior
+TileSets/TacticalWaifus/Units/Maori Warrior
   rotate: false
   xy: 732, 4
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-TileSets/Tactical Waifus/Units/Scout
+TileSets/TacticalWaifus/Units/Persian Immortal
   rotate: false
   xy: 836, 108
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-TileSets/Tactical Waifus/Units/Scout-1
+TileSets/TacticalWaifus/Units/Pictish Warrior
   rotate: false
   xy: 836, 4
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-TileSets/Tactical Waifus/Units/Settler
+TileSets/TacticalWaifus/Units/Scout
   rotate: false
   xy: 940, 108
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-TileSets/Tactical Waifus/Units/Settler-1
+TileSets/TacticalWaifus/Units/Scout-1
   rotate: false
   xy: 940, 4
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-TileSets/Tactical Waifus/Units/Settler-2
+TileSets/TacticalWaifus/Units/Settler
   rotate: false
   xy: 1044, 108
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-TileSets/Tactical Waifus/Units/Skirmisher
+TileSets/TacticalWaifus/Units/Settler-1
   rotate: false
   xy: 1044, 4
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-TileSets/Tactical Waifus/Units/Slinger
+TileSets/TacticalWaifus/Units/Settler-2
   rotate: false
   xy: 1148, 108
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-TileSets/Tactical Waifus/Units/Spearman
+TileSets/TacticalWaifus/Units/Skirmisher
   rotate: false
   xy: 1148, 4
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-TileSets/Tactical Waifus/Units/War Chariot
+TileSets/TacticalWaifus/Units/Slinger
   rotate: false
   xy: 1252, 108
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-TileSets/Tactical Waifus/Units/War Elephant
+TileSets/TacticalWaifus/Units/Spearman
   rotate: false
   xy: 1252, 4
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-TileSets/Tactical Waifus/Units/War Elephant-2
+TileSets/TacticalWaifus/Units/Swordsman
   rotate: false
   xy: 1356, 108
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-TileSets/Tactical Waifus/Units/Warrior
+TileSets/TacticalWaifus/Units/War Chariot
   rotate: false
   xy: 1356, 4
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-TileSets/Tactical Waifus/Units/Worker
+TileSets/TacticalWaifus/Units/War Elephant
   rotate: false
   xy: 1460, 108
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-TileSets/Tactical Waifus/Units/Worker-1
+TileSets/TacticalWaifus/Units/War Elephant-2
   rotate: false
   xy: 1460, 4
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
   index: -1
-TileSets/Tactical Waifus/Units/Worker-2
+TileSets/TacticalWaifus/Units/Warrior
   rotate: false
   xy: 1564, 108
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+TileSets/TacticalWaifus/Units/Worker
+  rotate: false
+  xy: 1564, 4
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+TileSets/TacticalWaifus/Units/Worker-1
+  rotate: false
+  xy: 1668, 108
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+TileSets/TacticalWaifus/Units/Worker-2
+  rotate: false
+  xy: 1668, 4
   size: 96, 96
   orig: 96, 96
   offset: 0, 0
